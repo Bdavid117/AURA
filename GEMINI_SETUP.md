@@ -13,7 +13,7 @@
 1. **Abre el archivo `.env`** en la carpeta `backend/`
 2. **Agrega tu API Key**:
    ```
-   GEMINI_API_KEY=AIzaSyDXacNVkEgdmWohQ1tkXZzi3yt9iMs4g-o
+   GEMINI_API_KEY=
    ```
 3. **Guarda el archivo**
 

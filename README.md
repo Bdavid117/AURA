@@ -81,7 +81,7 @@ graph TB
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/aura.git
+git clone https://github.com/Bdavid117/AURA.git
 cd aura
 
 # 2. Configurar backend
