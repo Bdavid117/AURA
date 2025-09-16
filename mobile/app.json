@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "AURA - Adultos Mayores",
+    "slug": "aura-seniors",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.CAMERA"
+      ]
+    },
+    "web": {
+      "bundler": "webpack"
+    },
+    "platforms": ["ios", "android", "web"],
+    "plugins": [],
+    "updates": {
+      "enabled": false
+    }
+  }
+}
